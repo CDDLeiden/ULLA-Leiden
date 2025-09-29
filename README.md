@@ -16,16 +16,16 @@ You can download seperate files from this repository with the download options, 
 
 ```bash
 
-wget https://raw.githubusercontent.com/CDDLeiden/ULLA2023-Leiden/master/init.sh -O init.sh && chmod +x init.sh && ./init.sh
+wget https://raw.githubusercontent.com/CDDLeiden/ULLA-Leiden/master/init.sh -O init.sh && chmod +x init.sh && ./init.sh
 ```
 
 But you can also execute it from a Jupyter Notebook cell (note the `!` in front of the command):
 
 ```bash
-!wget https://raw.githubusercontent.com/CDDLeiden/ULLA2023-Leiden/master/init.sh -O init.sh && chmod +x init.sh && ./init.sh
+!wget https://raw.githubusercontent.com/CDDLeiden/ULLA-Leiden/master/init.sh -O init.sh && chmod +x init.sh && ./init.sh
 ```
 
-After you have run these commands, the `ULLA2023-Leiden` folder with the contents of this repository will become available in the working directory. As the course progresses, more tutorials will become available here. You can update your local repository by running the following command in the `ULLA2023-Leiden` folder:
+After you have run these commands, the `ULLA-Leiden` folder with the contents of this repository will become available in the working directory. As the course progresses, more tutorials will become available here. You can update your local repository by running the following command in the `ULLA-Leiden` folder:
 
 ```
 git pull origin master
