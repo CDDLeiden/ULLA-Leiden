@@ -1,6 +1,6 @@
-# ULLA Ai in Drug Discovery 2023 -- Leiden
+# ULLA Ai in Drug Discovery -- Leiden
 
-Materials for the practicals organized by Leiden University at the 2023 ULLA course AI in DD. Contents:
+Materials for the practicals organized by Leiden University at the 2025 ULLA course AI in DD. Contents:
 
 1. [Multidimensional Data Visualization and Unsupervised Learning](./practicals/01_plotting_unsupervised/)
 2. [Proteocheminformatics](./practicals/02_PCM/)
